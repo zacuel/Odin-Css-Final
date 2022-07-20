@@ -10,8 +10,13 @@ Here are my recommended colors and fonts: https://cdn.statically.io/gh/TheOdinPr
 
 Also taking another deep dive into GIT. GIT IT
 
-it seems I have to make a commit every time I change something. BOOOOO idk seems stupid.
 
 After this, I will make a silly change to something.. so I can learn to check out the commit before the commit. will it branch? will it override? 
 
 also it seems like git is doing a lot of heavy lifting. 
+
+I think that when I cloned the project it also cloned my previous commits. I could figure this out now, or start building. 
+
+first im going to make a commit with this and the html spelled out. 
+
+does capitolization matter to the command line? it doesnt matter to it as far as directeries go. 
